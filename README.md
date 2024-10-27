@@ -17,7 +17,7 @@ Hackintosh **macOS Big Sur 11.7.6**| **DESKTOP ASUS P8Z77** **
 - **Motherboard  :** [P8Z77-V (Socket LGA1155)](https://www.asus.com/id/supportonly/p8z77-v%20lx/helpdesk_cpu/) 
 - **iGPU :** [Intel® HD Graphics 4000](https://www.intel.co.id/content/www/id/id/products/sku/65719/intel-core-i73770-processor-8m-cache-up-to-3-90-ghz/specifications.html#specs-1-0-4)
 - **dGPU :** RX7 RX580 8GB GDDR5 2048SP 256BIT Memory(Samsung) Flash BIOS ONLY USED [AMDVBFlash / ATI ATIFlash 2.93](dl.techpowerup.com/files/BS76uZSaTG3HUIEcHZhlhQ/1730099401/atiflash_293.zip) to [Sappire RX570 8GB GDDR5 256BIT Memory (Samsung)](https://www.techpowerup.com/vgabios/225970/sapphire-rx570-8192-191031-1)
-- **Memory :** 32GB 4x8GB DDR3 1333/1600
+- **Memory :** 32GB 4x[HyperX FURY Memory Blue - 8GB Module - DDR3 1600MT/s CL10 DIMM](https://www.kingston.com/id/memory/search/discontinuedmodels?partid=HX316C10F/8)
 - **Storage :** [1x PNY CS900 2.5'' SATA III SSD 250GB (Windows 10)](https://www.pny.com/ssd-cs900?sku=SSD7CS900-240-RB)
 - **Storage :** [1x HXY SSD 120GB (MacOS)](https://linux-hardware.org/?id=ide:hxy-ssd-120g)
 - **Storage :** [2x WDC 500GB HDD (Media)](https://smarthdd.com/database/WDC-WD5000AZLX-60K2TA0/01.01A01/)
