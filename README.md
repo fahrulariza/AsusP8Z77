@@ -50,7 +50,7 @@ Hackintosh **macOS Big Sur 11.7.6**| **DESKTOP ASUS P8Z77** **
 - Bluetooth | (Turn on in Windows setting, then restart and boot to macOS)
 - HDMI Out VGA PCIE RX 580 2048SP 8Gb (Video) as RX 570 8 Gb
 - HDMI Audio (Video) PCIE RX 580 2048SP 8Gb (Video) as RX 570 8 Gb 4 - LS24C36x (2- AMD High Definition Audio Device)
-- Audio Internal with Applealc [alcid=1](https://github.com/acidanthera/applealc/wiki/supported-codecs)
+- Audio Internal with ALC892 [boot-args	> alcid=1](https://github.com/acidanthera/applealc/wiki/supported-codecs)
 - All USB Port (USB 3.0, USB 2.0, Jack Audio)
 - iMessage + facetime | (Use Real Serial Number of MacBook Pro (Sync with SMBIOS))
 - Webcam USB
