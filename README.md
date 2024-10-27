@@ -33,7 +33,7 @@ Hackintosh **macOS Big Sur 11.7.6**| **DESKTOP ASUS P8Z77** **
 - **Boot Mode :** [UEFI GPT](https://wiki.restarters.net/UEFI_and_GPT)
 - **BIOS Manufacturer :** [P8Z77-V LX BIOS 2501](https://www.asus.com/id/supportonly/p8z77-v%20lx/helpdesk_bios/)
 - **SMbios : [iMac15,1 (Retina 5K, 27-inch, Mid 2015)](https://support.apple.com/id-id/112434)
-- **OS Version :** [macOS Big Sur 11.7.6](https://support.apple.com/id-id/111980) | [Online Install from gibMacOS](https://github.com/corpnewt/gibMacOS) | [Olarila Vanilla Images - macOS Installer](https://olarila.com/topic/6278-olarila-vanilla-images-macos-installer/)
+- **OS Version :** [macOS Big Sur 11.7.6](https://support.apple.com/id-id/111980) > Installer From [Online Install from gibMacOS](https://github.com/corpnewt/gibMacOS) or [Olarila Vanilla Images - macOS Installer](https://olarila.com/topic/6278-olarila-vanilla-images-macos-installer/)
 - **Bootloader :** [OpenCore 1.0.2](https://github.com/acidanthera/OpenCorePkg/releases/tag/1.0.2)
 
 ---
