@@ -32,7 +32,7 @@ Hackintosh **macOS Big Sur 11.7.6**| **DESKTOP ASUS P8Z77** **
 - **Monitor Resolution :** HD 1920 x 1080 100Hz Refresh Rate HDMI Port
 - **Boot Mode :** [UEFI GPT](https://wiki.restarters.net/UEFI_and_GPT)
 - **BIOS Manufacturer :** [P8Z77-V LX BIOS 2501](https://www.asus.com/id/supportonly/p8z77-v%20lx/helpdesk_bios/)
-- **SMbios : [iMac15,1](https://support.apple.com/id-id/112434)
+- **SMbios : [iMac15,1 (Retina 5K, 27-inch, Mid 2015)](https://support.apple.com/id-id/112434)
 - **OS Version :** [macOS Big Sur 11.7.6](https://github.com/corpnewt/gibMacOS)
 - **Bootloader :** [OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg/releases)
 
