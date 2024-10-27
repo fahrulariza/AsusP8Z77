@@ -6,7 +6,7 @@ Hackintosh **macOS Big Sur 11.7.6**| **DESKTOP ASUS P8Z77** **
 
 **Download EFI**
 
-- via Terminal : \$ `git clone https://github.com/fahrulariza/HP-Pavilion-14-V205TX.git` or [Click Here](https://github.com/fahrulariza/HP-Pavilion-14-V205TX/archive/refs/heads/master.zip)
+- via Terminal : \$ `git clone https://github.com/fahrulariza/AsusP8Z77.git` or [Click Here](https://github.com/fahrulariza/AsusP8Z77/archive/refs/heads/master.zip)
 
 ---
 
@@ -40,19 +40,16 @@ Hackintosh **macOS Big Sur 11.7.6**| **DESKTOP ASUS P8Z77** **
 
 **What's Working **
 
-- QE/CI of Intel HD Graphics 5500 (1536MB) | **ig-platform-id** : 06002616 + SMBIOS MBP12,1 ([Lilu](https://github.com/acidanthera/Lilu/releases), [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases))
+- QE/CI of Intel® HD Graphics 4000 (1536MB) | **ig-platform-id** : 07006201 Used when the iGPU is only used for computing tasks and doesn't drive a display ([Lilu](https://github.com/acidanthera/Lilu/releases), [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases))
 - CPU Power Management (SSDT-PLUG)
 - Restart, Sleep and Shutdown
-- Internal Speaker, Headphone and Internal Microphone | with layout-id 4 ([AppleALC](https://github.com/acidanthera/applealc/releases), [Lilu](https://github.com/acidanthera/Lilu/releases), SSDT-IRQFix)
-- Touchpad with Gestures
-- Brightness | (SSDT-PNLF)
+- Internal Speaker, Headphone and Internal Microphone | with layout-id 1 ([AppleALC](https://github.com/acidanthera/applealc/releases), [Lilu](https://github.com/acidanthera/Lilu/releases))
 - FN + Brightness Button Up/Down | (SSDT-PNLF)
-- Ethernet | ([RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases))
-- Wi-Fi | (AirPortAtheros40, [HS80211Family](https://www.insanelymac.com/forum/files/file/1008-io80211family-modif/))
+- Ethernet : [Intel(R) 82579V]([https://github.com/Mieze/RTL8111_driver_for_OS_X/releases](https://github.com/acidanthera/IntelMausi/releases)
+- Wi-Fi | (TL-WN851ND V1 Wireless N Adapter / Atheros AR9227 - AirPortAtheros40, [HS80211Family](https://www.insanelymac.com/forum/files/file/1008-io80211family-modif/))
 - Bluetooth | (Turn on in Windows setting, then restart and boot to macOS)
 - HDMI Out (Video)
 - HDMI Audio (Video)
-- Battery Indicator | ([VirtualSMC](https://github.com/acidanthera/virtualsmc/releases), SMCBatteryManager)
 - All USB Port (USB 3.0, USB 2.0, Jack Audio)
 - iMessage + facetime | (Use Real Serial Number of MacBook Pro (Sync with SMBIOS))
 - Webcam
@@ -63,8 +60,7 @@ Hackintosh **macOS Big Sur 11.7.6**| **DESKTOP ASUS P8Z77** **
 
 **Not Working :**
 
-- dGPU : Nvidia GeForce 840M (disable from SSDT)
-- AirDrop ??? not tested
+-
 
 ---
 
