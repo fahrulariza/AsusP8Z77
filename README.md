@@ -28,10 +28,10 @@ Hackintosh **macOS Big Sur 11.7.6**| **DESKTOP ASUS P8Z77** **
 - **External Ports :** 1x SDCard Reader + 2x USB 3.0 + 2 USB 2.0 + 1x HDMI + 1x RJ45
 - **Audio Codec :** [Realtek High Definition Audio codec ALC892 (1, 2, 3, 4, 5, 7, 11, 12, 15, 16, 17, 18, 20, 21, 22, 23, 28, 31, 32, 90, 92, 97, 99, 100)](https://www.realtek.com/Product/Index?id=699&cate_id=195)
 - **Display Size and Model :** [24" Essential Monitor S3 S33GC](https://www.samsung.com/id/monitors/flat/essential-monitor-s3-24-inch-fhd-ips-100hz-ls24c330gaexxd/)
-- **Monitor Resolution :** HD 1920 x 1080
-- **Boot Mode :** UEFI GPT
-- **BIOS Manufacturer :** Insyde Software version F.57
-- **SMbios : iMac15,1
+- **Monitor Resolution :** HD 1920 x 1080 100Hz Refresh Rate HDMI Port
+- **Boot Mode :** [UEFI GPT](https://wiki.restarters.net/UEFI_and_GPT)
+- **BIOS Manufacturer :** [P8Z77-V LX BIOS 2501](https://www.asus.com/id/supportonly/p8z77-v%20lx/helpdesk_bios/)
+- **SMbios : [iMac15,1](https://support.apple.com/id-id/112434)
 - **OS Version :** [macOS Big Sur 11.7.6](https://github.com/corpnewt/gibMacOS)
 - **Bootloader :** [OpenCore 0.9.1](https://github.com/acidanthera/OpenCorePkg/releases)
 
