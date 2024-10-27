@@ -12,7 +12,7 @@ Hackintosh **macOS Big Sur 11.7.6**| **DESKTOP ASUS P8Z77** **
 
 **Specification  :**
 
-- **Processor :** [Intel Core i7-3770 @ 3.40 GHz 3 MB cache, 4 cores 8 Thread]([https://www.asus.com/id/supportonly/p8z77-v%20lx/helpdesk_cpu/](https://www.intel.co.id/content/www/id/id/products/sku/65719/intel-core-i73770-processor-8m-cache-up-to-3-90-ghz/specifications.html) 
+- **Processor :** [Intel Core i7-3770 @ 3.40 GHz 3 MB cache, 4 cores 8 Thread](https://www.intel.co.id/content/www/id/id/products/sku/65719/intel-core-i73770-processor-8m-cache-up-to-3-90-ghz/specifications.html) 
 - **Motherboard  :** [P8Z77-V (Socket LGA1155)](https://www.asus.com/id/supportonly/p8z77-v%20lx/helpdesk_cpu/) 
 - **iGPU :** Intel® HD Graphics 4000
 - **dGPU :** RX7 RX580 8GB GDDR5 2048SP 256BIT Flash to Sappire RX570 8GB GDDR5 256BIT
