@@ -15,7 +15,7 @@ Hackintosh **macOS Big Sur 11.7.6**| **DESKTOP ASUS P8Z77** **
 - **Processor :** [Intel Core i7-3770 @ 3.40 GHz 3 MB cache, 4 cores 8 Thread](https://www.intel.co.id/content/www/id/id/products/sku/65719/intel-core-i73770-processor-8m-cache-up-to-3-90-ghz/specifications.html) 
 - **Motherboard  :** [P8Z77-V (Socket LGA1155)](https://www.asus.com/id/supportonly/p8z77-v%20lx/helpdesk_cpu/) 
 - **iGPU :** Intel® HD Graphics 4000
-- **dGPU :** RX7 RX580 8GB GDDR5 2048SP 256BIT Flash to Sappire RX570 8GB GDDR5 256BIT
+- **dGPU :** RX7 RX580 8GB GDDR5 2048SP 256BIT Flash BIOS to [Sappire RX570 8GB GDDR5 256BIT Memory Timings (Samsung)](https://www.techpowerup.com/vgabios/225970/sapphire-rx570-8192-191031-1)
 - **Memory :** 32GB 4x8GB DDR3 1333/1600
 - **Storage :** 1x PNY CS900 SSD 250GB (Windows 10)
 - **Storage :** 1x HXY SSD 120GB (MacOS)
