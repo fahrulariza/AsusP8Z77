@@ -46,7 +46,7 @@ Hackintosh **macOS Big Sur 11.7.6**| **DESKTOP ASUS P8Z77** **
 - Internal Speaker, Headphone and Internal Microphone | with layout-id 1 ([AppleALC](https://github.com/acidanthera/applealc/releases), [Lilu](https://github.com/acidanthera/Lilu/releases))
 - Function FN + | in HP Keyboard
 - Ethernet | [Intel(R) 82579V](https://github.com/acidanthera/IntelMausi/releases)
-- Wi-Fi | TL-WN851ND V1 Wireless N Adapter / Atheros AR9227 - AirPortAtheros40, used [HS80211Family](https://www.insanelymac.com/forum/files/file/1008-io80211family-modif/))
+- Wi-Fi | TL-WN851ND V1 Wireless N Adapter chipset Atheros AR9227 - AirPortAtheros40, used [IO80211HighSierra.kext](https://github.com/khronokernel/IO80211-Patches/blob/main/10.13.6-High-Sierra-Kexts/IO80211HighSierra.kext.zip))
 - Bluetooth | (Turn on in Windows setting, then restart and boot to macOS)
 - HDMI Out VGA PCIE RX 580 2048SP 8Gb (Video) as RX 570 8 Gb
 - HDMI Audio (Video) PCIE RX 580 2048SP 8Gb (Video) as RX 570 8 Gb 4 - LS24C36x (2- AMD High Definition Audio Device)
