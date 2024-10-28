@@ -1,6 +1,6 @@
 # **Hackintosh-ASUS-P8Z77**
 
-Hackintosh **[macOS Big Sur 11.7.6](https://help.apple.com/macos/big-sur/whats-new/?lang=en&cases=kIFAGHvXTAepRptQXiXe5w,N0bfKOvERSiAp06mHOcgOQ&notification=1#design)** | **DESKTOP ASUS P8Z77** **
+Hackintosh **[macOS Big Sur 11.7.6](https://help.apple.com/macos/big-sur/whats-new/?lang=en&cases=kIFAGHvXTAepRptQXiXe5w,N0bfKOvERSiAp06mHOcgOQ&notification=1#design)** | **DESKTOP ASUS P8Z77**
 
 ---
 
@@ -39,19 +39,19 @@ Hackintosh **[macOS Big Sur 11.7.6](https://help.apple.com/macos/big-sur/whats-n
 ---
 
 **What's Working **
-- IGPU  | QE/CI of Intel® HD Graphics 4000 (1536MB) | [**ig-platform-id** : 07006201](https://dortania.github.io/OpenCore-Install-Guide/config.plist/ivy-bridge.html#deviceproperties) Used when the iGPU is only used for computing tasks and doesn't drive a display (requite kext [Lilu](https://github.com/acidanthera/Lilu/releases), [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases))
+- IGPU  > QE/CI of Intel® HD Graphics 4000 (1536MB) | [**ig-platform-id** : 07006201](https://dortania.github.io/OpenCore-Install-Guide/config.plist/ivy-bridge.html#deviceproperties) Used when the iGPU is only used for computing tasks and doesn't drive a display (requite kext [Lilu](https://github.com/acidanthera/Lilu/releases), [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases))
 - CPU Power Management (SSDT-PLUG)
 - Restart, Sleep and Shutdown
-- Internal Speaker, Headphone and Internal Microphone | with layout-id 1 ([AppleALC](https://github.com/acidanthera/applealc/releases), [Lilu](https://github.com/acidanthera/Lilu/releases))
-- Ethernet | [Intel(R) 82579V](https://github.com/acidanthera/IntelMausi/releases)
-- Wi-Fi | TL-WN851ND V1 Wireless N Adapter chipset [Atheros AR9227](https://wikidevi.wi-cat.ru/index.php/Special:Ask?title=Special%3AAsk&q=%5B%5BChip1+model::~AR9227*%5D%5D&po=%3FInterface%0D%0A%3FFCC+ID%0D%0A%3FManuf%0D%0A%3FManuf+product+model=Manuf.+mdl%0D%0A%3FVendor+ID%0D%0A%3FDevice+ID%0D%0A%3FSubvendor+ID%0D%0A%3FSubdevice+ID%0D%0A%3FChip1+model%0D%0A%3FSupported+802dot11+protocols=PHY+modes%0D%0A%3FMIMO+config%0D%0A%3FOUI%0D%0A%3FEstimated+year+of+release=Est.+year&eq=yes&p%5Bformat%5D=broadtable&order%5B0%5D=ASC&sort_num=&order_num=ASC&p%5Blimit%5D=500&p%5Boffset%5D=&p%5Blink%5D=all&p%5Bsort%5D=&p%5Bheaders%5D=show&p%5Bmainlabel%5D=&p%5Bintro%5D=&p%5Boutro%5D=&p%5Bsearchlabel%5D=%E2%80%A6+further+results&p%5Bdefault%5D=&p%5Bclass%5D=sortable+wikitable+smwtable) - AirPortAtheros40, used [IO80211HighSierra.kext](https://github.com/khronokernel/IO80211-Patches/blob/main/10.13.6-High-Sierra-Kexts/IO80211HighSierra.kext.zip))
-- Bluetooth | (Turn on in Windows setting, then restart and boot to macOS)
-- Keyboard | [HP Pavilion Wired Keyboards USB](https://support.hp.com/ie-en/product/setup-user-guides/pavilion-wired-keyboards/2102184227) used activated Function FN + with App [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases)
+- Internal Speaker, Headphone and Internal Microphone > with layout-id 1 ([AppleALC](https://github.com/acidanthera/applealc/releases), [Lilu](https://github.com/acidanthera/Lilu/releases))
+- Ethernet > [Intel(R) 82579V](https://github.com/acidanthera/IntelMausi/releases)
+- Wi-Fi > TL-WN851ND V1 Wireless N Adapter chipset [Atheros AR9227](https://wikidevi.wi-cat.ru/index.php/Special:Ask?title=Special%3AAsk&q=%5B%5BChip1+model::~AR9227*%5D%5D&po=%3FInterface%0D%0A%3FFCC+ID%0D%0A%3FManuf%0D%0A%3FManuf+product+model=Manuf.+mdl%0D%0A%3FVendor+ID%0D%0A%3FDevice+ID%0D%0A%3FSubvendor+ID%0D%0A%3FSubdevice+ID%0D%0A%3FChip1+model%0D%0A%3FSupported+802dot11+protocols=PHY+modes%0D%0A%3FMIMO+config%0D%0A%3FOUI%0D%0A%3FEstimated+year+of+release=Est.+year&eq=yes&p%5Bformat%5D=broadtable&order%5B0%5D=ASC&sort_num=&order_num=ASC&p%5Blimit%5D=500&p%5Boffset%5D=&p%5Blink%5D=all&p%5Bsort%5D=&p%5Bheaders%5D=show&p%5Bmainlabel%5D=&p%5Bintro%5D=&p%5Boutro%5D=&p%5Bsearchlabel%5D=%E2%80%A6+further+results&p%5Bdefault%5D=&p%5Bclass%5D=sortable+wikitable+smwtable) - AirPortAtheros40, used [IO80211HighSierra.kext](https://github.com/khronokernel/IO80211-Patches/blob/main/10.13.6-High-Sierra-Kexts/IO80211HighSierra.kext.zip))
+- Bluetooth > (Turn on in Windows setting, then restart and boot to macOS)
+- Keyboard > [HP Pavilion Wired Keyboards USB](https://support.hp.com/ie-en/product/setup-user-guides/pavilion-wired-keyboards/2102184227) used activated Function FN + with App [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases)
 - HDMI Out VGA PCIE RX 580 2048SP 8Gb (Video) as RX 570 8 Gb
 - HDMI Audio (Video) PCIE RX 580 2048SP 8Gb (Video) as RX 570 8 Gb 4 - LS24C36x (2- AMD High Definition Audio Device)
-- Audio Internal with ALC892 [boot-args	> alcid=1](https://github.com/acidanthera/applealc/wiki/supported-codecs)
+- Audio Internal > with ALC892 [boot-args	> alcid=1](https://github.com/acidanthera/applealc/wiki/supported-codecs)
 - All USB Port (USB 3.0, USB 2.0, Jack Audio)
-- iMessage + facetime | (Use Real Serial Number of MacBook Pro (Sync with SMBIOS))
+- iMessage + facetime > (Use Real Serial Number of MacBook Pro (Sync with SMBIOS))
 - Webcam USB
 - SD Card Reader
 - Etc..
