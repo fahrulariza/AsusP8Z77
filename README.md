@@ -39,7 +39,8 @@ Hackintosh **[macOS Big Sur 11.7.6](https://help.apple.com/macos/big-sur/whats-n
 ---
 
 **What's Working **
-
+|                  NAME                  |  Setting   |
+| :-------------------------------------------: | :--------: |
 |  IGPU  | QE/CI of Intel® HD Graphics 4000 (1536MB) | [**ig-platform-id** : 07006201](https://dortania.github.io/OpenCore-Install-Guide/config.plist/ivy-bridge.html#deviceproperties) Used when the iGPU is only used for computing tasks and doesn't drive a display (requite kext [Lilu](https://github.com/acidanthera/Lilu/releases), [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases)) |
 - CPU Power Management (SSDT-PLUG)
 - Restart, Sleep and Shutdown
