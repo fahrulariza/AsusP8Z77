@@ -1,6 +1,6 @@
 # **Hackintosh-ASUS-P8Z77**
 
-Hackintosh **macOS Big Sur 11.7.6**| **DESKTOP ASUS P8Z77** **
+Hackintosh **[macOS Big Sur 11.7.6](https://help.apple.com/macos/big-sur/whats-new/?lang=en&cases=kIFAGHvXTAepRptQXiXe5w,N0bfKOvERSiAp06mHOcgOQ&notification=1#design)**| **DESKTOP ASUS P8Z77** **
 
 ---
 
